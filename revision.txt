@@ -6,6 +6,9 @@
 ************************************************************************************************************
 ************************************************************************************************************
 
+Version 1.2.1 [2019-03-29]
+    - Added support for the latest firmware revision.
+
 Version 1.2.0 [2018-11-21]
     - Bug-fix to prevent deadlocks, if errors occur during hardware initialization.
     
