@@ -6,6 +6,11 @@
 ************************************************************************************************************
 ************************************************************************************************************
 
+Version 1.5.0 [2020-03-04]
+    - Added support to read GNSS firmware version.
+    - Added support to enable/disable various satellite systems. The configuration is hard-coded and
+      currently not changeable by the user. All satellite systems are enabled by default.
+
 Version 1.4.0 [2020-01-28]
     - Bug-fix: HAT revisions without button generated erroneous shutdowns.
 
