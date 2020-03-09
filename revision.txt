@@ -6,6 +6,10 @@
 ************************************************************************************************************
 ************************************************************************************************************
 
+Version 1.6.0 [2020-03-09]
+    - Using $PQVERNO command instead of $PMTK605 to read GNSS firmware version. 
+    - Increased GNSS version request interval.
+
 Version 1.5.0 [2020-03-04]
     - Added support to read GNSS firmware version.
     - Added support to enable/disable various satellite systems. The configuration is hard-coded and
